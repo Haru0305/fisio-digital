@@ -1,3 +1,10 @@
+<?php 
+session_start();
+
+include('protect.php');
+
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -8,7 +15,7 @@
 	<!--link do estilo css-->
 	<link rel="stylesheet" href="inicio.css">
 
-	<title>menu sidebar dashboard</title>
+	<title>Menu</title>
 </head>
 <body>
 	<div class="container">
