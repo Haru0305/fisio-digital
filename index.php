@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <form action="cad.html" method="get">
+    <form action="login.php" method="POST">
     <div class="main-login">
         <div class="left-login">
             <h1>Faça login<br>E entre para o nosso time</h1>
